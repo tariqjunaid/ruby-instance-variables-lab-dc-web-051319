@@ -11,5 +11,4 @@ end
 jackie = Dog.new
 jackie.name = "Jackie"
 
-#puts jackie.name
-name=("Jackie")
+puts jackie.name
