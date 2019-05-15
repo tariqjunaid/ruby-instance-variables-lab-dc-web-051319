@@ -9,3 +9,6 @@ class Dog
 end
 
 jackie = Dog.new
+jackie.name = "Jackie"
+
+puts jackie.name
